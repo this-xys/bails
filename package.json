@@ -31,6 +31,7 @@
     "libsignal": "git+https://github.com/this-xys/libsignal-node",
     "long": "^5.2.3",
     "lru-cache": "^11.2.6",
+    "msgpackr": "^2.0.4",
     "music-metadata": "^11.12.3",
     "p-queue": "^9.1.0",
     "pino": "^9.6.0",
